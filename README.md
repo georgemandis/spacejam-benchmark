@@ -1,2 +1,2 @@
-# spacejam-benchmark
-Modern websites should perform at least as well as a movie website from 1996.
+# The Space Jam Standard
+Modern websites should perform at least as well as [a movie website](https://spacejam.com) from 1996.
